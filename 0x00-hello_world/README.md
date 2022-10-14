@@ -4,3 +4,4 @@ the scrip 2-assembler generates the assembly code of a C code and save it in an 
 the scrip 3-name compiles a C file and creae an executable named cisfun
 the script 4-puts.c is a C code that prints a statement
 the script 5-printf.c is a C code that prints a statement
+the script 6-size.c prints the size of data types on the computer its being run
