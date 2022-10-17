@@ -1,14 +1,14 @@
 #include <stdio.h>
 /**
- * main - printing the sring in the printf function
+ * main -main block
  *
- * Descripion: using the main function 
- * this program prints with proper grammar, but the outcome is a piece of art
+ * Description: using the main function
+ * this program prints with proper grammar, but the outcome is a piece of art,
  * Return: 0
  *
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcone is a piece of art,\n");
+	printf("with proper grammar, but the outcome is a piece if art,\n");
 	return (0);
 }
